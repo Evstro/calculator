@@ -41,7 +41,7 @@
     border: solid 2px black;
 }
 
-.numbbutton {
+.buttons {
     width: 70px;
     height: 125px;
     margin: 10px;
@@ -63,11 +63,5 @@
     font-size: 50px;
 }
 
-.equalsbutton {
-    width: 165px;
-    height: 125px;
-    margin: 10px;
-    font-size: 50px;
 
-    border: solid 2px black;
-}
+
